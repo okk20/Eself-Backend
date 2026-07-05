@@ -1,0 +1,6 @@
+{
+  "name": "Eself Pro",
+  "description": "Ghana JHS AI-powered BECE Exam Prep application with real-time feedback, interactive grading, and study guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

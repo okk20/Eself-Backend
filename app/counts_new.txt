@@ -1,0 +1,10 @@
+--- ACTUAL DATABANK COUNTS ---
+Subject ID 1 (Mathematics): Objectives=324, Theory=20
+Subject ID 2 (Integrated Science): Objectives=101, Theory=11
+Subject ID 3 (English Language): Objectives=151, Theory=22
+Subject ID 4 (Social Studies): Objectives=221, Theory=43
+Subject ID 5 (Computing): Objectives=480, Theory=66
+Subject ID 6 (Religious & Moral Education (RME)): Objectives=15, Theory=5
+Subject ID 7 (French): Objectives=40, Theory=2
+Subject ID 8 (Creative Arts and Design): Objectives=45, Theory=9
+Subject ID 9 (Career Technology): Objectives=120, Theory=12

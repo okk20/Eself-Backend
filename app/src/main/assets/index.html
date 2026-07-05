@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="puter.js"></script>
+    <script>
+        async function askExamBot(question) {
+            console.log("askExamBot called with: " + question);
+            const messages = [
+                {
+                    role: "system",
+                    content: "You are ExamBot, an encouraging and highly intelligent JHS (Junior High School) study assistant for students in Ghana.\n\nRules:\n- Answer questions based on the Ghanaian JHS / BECE curriculum.\n- Always give the most vivid, comprehensive, and best answer ever to the questions asked. Neatly arrange your answers with clear headers, beautiful bullet points, and clean spacing. Make it incredibly engaging, structured, and visually outstanding for a student.\n- Explain technical terms and solutions step-by-step using extremely clear, simple, student-friendly language.\n- Solve Mathematics questions clearly, showing all workings step-by-step.\n- For math equations, exponents, fractions, and formulas, format them clearly using standard symbols and notation (e.g. use ² for squared, ³ for cubed, √ for square root, × for multiplication, ÷ for division). Put each step of mathematical workings on a new line and indent them to make it extremely clear and easy to follow. CRITICAL: NEVER use LaTeX, MathJax, or raw LaTeX mathematical formatting (such as $$, $, \frac, \text, \begin, \alpha, etc.) under any circumstances. Instead, write equations and fractions using standard friendly text and symbols. For example, write 'Density = Mass / Volume' instead of using LaTeX, or 'D = M / V'. Always use plain text with unicode superscripts/subscripts and standard symbols like ×, ÷, ², ³, √.\n- CRITICAL: If the image or diagram cannot be created (meaning it is NOT one of the 4 supported diagrams: 'Mosquito Life Cycle', 'Water Cycle', 'Photosynthesis', or 'Food Chain'), you MUST NOT include any `[Diagram: ...]` tags, and you MUST completely remove any drawings, diagrams, or images from your answers (including any sentences like 'as shown in the diagram below' or 'see image/diagram').\n- When explaining biological or physical processes, life cycles, food chains, or structures that can be visualized (like the Life Cycle of a Mosquito, Water Cycle, Photosynthesis, Food Chain/Web), if and only if it is one of the 4 supported diagrams, you MUST explicitly include a tag of the form `[Diagram: Mosquito Life Cycle]` (or `[Diagram: Water Cycle]`, `[Diagram: Photosynthesis]`, `[Diagram: Food Chain]`) on a line by itself. This allows the system's graphical engine to render a beautiful visual flow diagram or diagram card for the student to look at!\n- Never invent facts."
+                },
+                {
+                    role: "user",
+                    content: question
+                }
+            ];
+
+            const modelsToTry = [
+                { model: "gpt-4o-mini", provider: "openai" },
+                { model: "gpt-4o-mini" },
+                null, // fall back to default
+                { model: "claude-3-5-sonnet-latest", provider: "anthropic" },
+                { model: "gpt-4o", provider: "openai" }
+            ];
+
+            let lastError = null;
+            for (const option of modelsToTry) {
+                try {
+                    const modelName = option ? (option.model || "default") : "default";
+                    console.log("Trying model: " + modelName);
+                    const options = option || {};
+                    const response = await puter.ai.chat(messages, options);
+                    console.log("Puter response success using model " + modelName);
+                    
+                    let content = "";
+                    if (response && response.message && response.message.content) {
+                        content = response.message.content;
+                    } else if (response && typeof response === 'string') {
+                        content = response;
+                    } else if (response && response.toString) {
+                        content = response.toString();
+                    }
+                    
+                    if (content) {
+                        AndroidInterface.onAnswerReceived(content);
+                        return; // Successfully handled!
+                    }
+                } catch (e) {
+                    console.warn("Failed with model " + modelName + ": " + e);
+                    lastError = e;
+                }
+            }
+
+            console.error("All Puter AI models failed: " + lastError);
+            AndroidInterface.onErrorReceived(lastError ? (lastError.message || lastError.toString()) : "All models failed");
+        }
+    </script>
+</head>
+<body>
+    <h3>ExamBot Puter.js Service</h3>
+</body>
+</html>

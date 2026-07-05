@@ -1,0 +1,922 @@
+[
+  {
+    "id": 563,
+    "name": "Arrange the following: 3/4, 0.8, 5/8, 0.65 in descending order. A. 0.8, 3/4, 0.65, 5/8 B. 5/8, 0.8, 3/4, 0.65 C. 0.65, 5/8, 3/4, 0.8 D. 3/4, 5/8, 0.8, 0.65",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 564,
+    "name": "Mr Mensah left his house at 9:45 am and reached his village at 4:15 pm. Find the time spent. A. 5 hours 30 minutes B. 8 hours C. 6 hours 30 minutes D. 7 hours",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 565,
+    "name": "In a test 2/3 of the learners passed. If the number of learners who failed was 69, how many passed? A. 23 B. 138 C. 46 D. 207",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 566,
+    "name": "Factorize: 3a^2b - 9ab^2. A. 3ab(a - 3b) B. ab(3a - b) C. 3ab(b - 3a) D. ab(3b - a)",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 567,
+    "name": "Find the volume of a cube with side 5 m. A. 10 m^3 B. 75 m^3 C. 25 m^3 D. 125 m^3",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 568,
+    "name": "A trader sold an article for GHC 126.00 making a profit of 20%. Find the cost price of the item. A. GHC 100.50 B. GHC 105.00 C. GHC 100.80 D. GHC 151.20",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 569,
+    "name": "Write 0.000437 in standard form. A. 4.37 × 10^-4 B. 4.37 × 10^-3 C. 4.37 × 10^4 D. 4.37 × 10^3",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 570,
+    "name": "Mary receives a commission of 15% on articles sold in a week. If her commission was GHC 60.00, how much sales did she make? A. GHC 900.00 B. GHC 90.00 C. GHC 400.00 D. GHC 40.00",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 571,
+    "name": "Simplify: √75 - √18 - √3 + √2. A. 4√3 - 2√2 B. 3√3 - 2√2 C. 4√3 + 2√2 D. 3√3 + 2√2",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 572,
+    "name": "Theresa was asked to select at random a letter from the word HAPPY. What is the probability that she selects the letter P? A. 1/5 B. 1/2 C. 2/5 D. 3/5",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 573,
+    "name": "Find the image of the point (2, -3) under the transformation (x/y) → (x / (y - 2)). A. (2, 1) B. (2, -1) C. (2, -5) D. (2, 5)",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 574,
+    "name": "A square of area 144 cm^2 has the same perimeter as an equilateral triangle. Find the length of a side of the triangle. A. 10 cm B. 16 cm C. 14 cm D. 18 cm",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 575,
+    "name": "Solve: 7 - 2x > 15 - 4x. A. x < -4 B. x < 4 C. x > -4 D. x > 4",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 576,
+    "name": "Antwi has 20 mangoes and 20% are rotten. How many of them are not rotten? A. 4 B. 12 C. 8 D. 16",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 577,
+    "name": "A class of 42 learners shared some oranges and each received 11. If 22 learners shared the same number of oranges equally, how many will each get? A. 15 B. 21 C. 20 D. 22",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 578,
+    "name": "Make y the subject of the relation p = (r - 4y)/3. A. y = 1/4(3p - r) B. y = 1/4(r - 3p) C. y = 1/4(r + 3p) D. y = 1/4(r + p)",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 579,
+    "name": "A number is chosen at random from the set P = {1, 2, 3, 4, 5, ... 10}. What is the probability that the number is greater than 3? A. 4/5 B. 3/10 C. 7/10 D. 1/5",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 580,
+    "name": "Kofi paid an interest of GHC 30.00 on a loan he took for 4 years. If the rate was 3% per annum simple interest, find the amount borrowed. A. GHC 360.00 B. GHC 250.00 C. GHC 280.00 D. GHC 90.00",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 581,
+    "name": "A cyclist travelling at 20 km/h covered a distance in 35 minutes. What time will it take to cover the same distance travelling at 28 km/h? A. 16 minutes B. 48 minutes C. 25 minutes D. 49 minutes",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 582,
+    "name": "Which of the following is not a composite number? A. 24 B. 41 C. 39 D. 65",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 583,
+    "name": "Kofi had 150 birds. He sold 26 of them and kept the rest equally in 4 cages. How many birds were kept in each cage? A. 30 B. 35 C. 31 D. 36",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 584,
+    "name": "If (x + 2) : (x - 2) = 1 : 2, find the value of x. A. -2 B. -6 C. -3 D. -3/5",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 585,
+    "name": "Given that μ = {1, 2, 3, ... 10} and M = {2, 3, 5, 7}, where M is a subset of μ. List the members in μ that are not in M. A. {1, 4, 6} B. {2, 4, 6, 8, 10} C. {2, 4, 6, 8} D. {1, 4, 6, 8, 9, 10}",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 586,
+    "name": "If 2^(2m) = 8, find the value of m. A. 2.0 B. 1.0 C. 1.5 D. 0.5",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 587,
+    "name": "A boy spends 1/4 of his pocket money on books and 1/3 on pens. What fraction remains? A. 5/6 B. 5/12 C. 7/12 D. 1/6",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 588,
+    "name": "Two sets which have the same number of members are ___ sets. A. equal B. intersecting C. equivalent D. union",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 589,
+    "name": "Change 25% to a fraction in its lowest form. A. 1/2 B. 1/8 C. 1/4 D. 5/6",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 590,
+    "name": "Find the rule for the mapping shown below: x: 1→3, 2→6, 3→9, 4→12, 5→15. A. x → 3x B. x → 4 - x C. x → x + 2 D. x → 2x + 1",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": "A mapping diagram with two rows: the top row shows the inputs 'x' as 1, 2, 3, 4, 5 and the bottom row shows the outputs 'y' as 3, 6, 9, 12, 15. Vertical arrows point from each x to its corresponding y."
+  },
+  {
+    "id": 591,
+    "name": "Find the circumference of a circle whose area is 100π cm^2. A. 5π cm B. 15π cm C. 10π cm D. 20π cm",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 592,
+    "name": "Find the value of y in the diagram. A. 60° B. 30° C. 34° D. 28°",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": "A geometry diagram showing two parallel horizontal lines. An isosceles triangle is drawn with its base on the bottom parallel line and its vertex touching the top parallel line. The equal sides of the triangle are marked with single tick lines. The vertex angle is divided into two parts: 2y and 56°. The value of y is required."
+  },
+  {
+    "id": 593,
+    "name": "Given the sequence -9, -5, m, 3, 7, 11, find the value of m. A. -3 B. -1 C. -2 D. 1",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 594,
+    "name": "The marks obtained by 11 learners in a test are: 2, 5, 5, 6, 7, 7, 8, 8, 8, 9, 10. What is the modal mark? A. 2 B. 8 C. 7 D. 9",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 595,
+    "name": "If a = (3, 1) and b = (-2, 1), evaluate 6b + 2a. A. (-1, 3) B. (-6, 8) C. (1, 3) D. (6, 8)",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 596,
+    "name": "Evaluate p^2(q - 1) when p = 2 and q = 3/4. A. -2 B. 1 C. -1 D. 2",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 597,
+    "name": "Ivy and Abbey share an amount of GHC 30.00 in the ratio 3 : 2 respectively. Find Abbey's share. A. GHC 10.00 B. GHC 15.00 C. GHC 12.00 D. GHC 18.00",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 598,
+    "name": "The table below shows the marks scored by learners in a test. Marks: 0, 1, 2, 3, 4, 5. Frequency: 1, 2, 7, 5, 4, 3. Find the median mark. A. 1 B. 3 C. 2 D. 4",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": "A frequency table with two rows. The top row is labelled 'Mark' with values 0, 1, 2, 3, 4, 5. The bottom row is labelled 'Frequency' with corresponding values 1, 2, 7, 5, 4, 3."
+  },
+  {
+    "id": 599,
+    "name": "The table below shows the marks scored by learners in a test. Marks: 0, 1, 2, 3, 4, 5. Frequency: 1, 2, 7, 5, 4, 3. Find the probability that a learner selected at random scored 2. A. 1/22 B. 2/22 C. 7/22 D. 4/22",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": "A frequency table with two rows. The top row is labelled 'Mark' with values 0, 1, 2, 3, 4, 5. The bottom row is labelled 'Frequency' with corresponding values 1, 2, 7, 5, 4, 3."
+  },
+  {
+    "id": 600,
+    "name": "If (3/4)x = 2 + 1/4, find the value of x. A. 1 B. 4 C. 3 D. 5",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 601,
+    "name": "The product of three numbers is 90. If two of the numbers are 6 and 3, find the third number. A. 18 B. 9 C. 15 D. 5",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 602,
+    "name": "Simplify: x - 5(3 - 2x) - 12x + 7. A. x + 8 B. -21x + 8 C. -21x - 8 D. -x - 8",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 603,
+    "name": "Question 1 (Theory): (a) Given that K = {1, 2, 3, ..., 11}: (i) list the prime numbers in K; (ii) find the probability that a number selected at random from the set K is not a prime number. (b) Factorize completely: (x + y)(2m - n) - m(x + y). (c) A typist charges GHC 68.00 for the first 8 sheets typed, and GHC 11.00 for each additional sheet. Calculate the amount earned if the typist typed a total of 35 sheets.",
+    "code": null,
+    "price": 20.00,
+    "totalObjectives": 0,
+    "totalTheory": 1,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 604,
+    "name": "Question 2 (Theory): (a) The image of P(2, 5) when translated by the vector r is (-3, 8). Find: (i) r; (ii) the image Q' of Q(-4, -6) when translated by r. (b) Joyce and Richard contributed GHC 10,000.00 and GHC 5,000.00 respectively to start a business. They agreed that Richard will be paid one-third of the profit as a manager and the rest of the profit will be shared in the ratio of their contributions. If a profit of GHC 9,000.00 was made, how much did: (i) Joyce receive; (ii) Richard receive in total?",
+    "code": null,
+    "price": 20.00,
+    "totalObjectives": 0,
+    "totalTheory": 1,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 605,
+    "name": "Question 3 (Theory): (a) Asana was engaged to collect cashew-fruits on a farm and was paid a wage of GHC 25.00 a day. If the daily wage increased by 10% and she worked for 30 days, how much will she be paid? (b) The diagram shows the floor of a room with its dimensions. Find the: (i) perimeter; (ii) area; (iii) cost of carpeting the floor if a carpet costs GHC 20.00 per square metre.",
+    "code": null,
+    "price": 20.00,
+    "totalObjectives": 0,
+    "totalTheory": 1,
+    "isActive": 1,
+    "diagram": "An L-shaped floor plan with the following outer dimensions: top side 8 m, left side 5 m, right side 3 m, bottom side 5 m. The internal corner forms a rectangle of 5 m by 2 m. The diagram is not drawn to scale."
+  },
+  {
+    "id": 606,
+    "name": "Question 4 (Theory): (a) In a school, the monthly incomes of three workers Aku, Brako and Dagadu are GHC 5,000.00, GHC 6,500.00 and GHC 4,200.00 respectively. (i) Calculate the yearly income of each worker. (ii) Find the yearly income difference between Aku and Dagadu. (iii) Find the total yearly income of all the three workers. (b) A painter places a ladder against a building at the window. The angle the foot of the ladder makes with the horizontal ground is 60°. If the distance from the foot of the ladder to the base of the building is 5 m: (i) illustrate the information in a diagram; (ii) find, correct to one decimal place, the (α) length of the ladder; (β) distance between the window and the foot of the building. [Take tan 60° = 1.732 and cos 60° = 1/2]",
+    "code": null,
+    "price": 20.00,
+    "totalObjectives": 0,
+    "totalTheory": 1,
+    "isActive": 1,
+    "diagram": "A right-angled triangle formed by a vertical building wall, a horizontal ground, and a ladder leaning against the wall reaching a window. The angle between the ladder and the horizontal ground is 60°. The horizontal distance from the foot of the ladder to the base of the building is 5 m. The ladder represents the hypotenuse of the triangle."
+  },
+  {
+    "id": 607,
+    "name": "Question 5 (Theory): (a) Simplify √72 / (√18 - √12), leaving the answer in the form a + b√c, where a, b and c are integers. (b) Solve: (1/2)(2x + 1) ≥ (1/3)x + 1 9/10. (c) An athlete runs four times round a circular track of radius 70 m. Find, in metres, the total distance covered by the athlete. [Take π = 22/7]",
+    "code": null,
+    "price": 20.00,
+    "totalObjectives": 0,
+    "totalTheory": 1,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 608,
+    "name": "Question 6 (Theory): (a) The data below shows the shoe sizes of learners in a school: 6, 4, 7, 5, 5, 6, 4, 5, 5, 4, 6, 7, 5, 6, 4, 6, 7, 5, 6, 4, 7, 5, 4, 6, 5, 5, 4, 6, 7, 5. Construct a frequency distribution table for the data. (b) If the school supplies shoes to the learners: (i) which size should be purchased in large quantities? (ii) give a reason for the answer in (b)(i); (iii) which size will be purchased in less quantities? (iv) give a reason for the answer in (b)(iii). (c) Find, correct to the nearest whole number, the mean shoe size.",
+    "code": null,
+    "price": 20.00,
+    "totalObjectives": 0,
+    "totalTheory": 1,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 609,
+    "name": "How long will the simple interest on GH¢ 550.00 at 12% per annum be GH¢ 132.00? A. 1 year B. 2 years C. 4 years D. 12 years",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 610,
+    "name": "Expand and simplify: 2(3a + 1) - 3(4a - 3). A. 11-5a B. 11-6a C. 11+5a D. 11+6a",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 611,
+    "name": "The area of a rectangular card is 15 cm^2. If each side of the card is enlarged by a scale factor 3, find the area of the enlarged card. A. 45 cm^2 B. 75 cm^2 C. 90 cm^2 D. 135 cm^2",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 612,
+    "name": "Factorize: 5ay - by + 15a - 3b. A. (y + 3)(5a - b) B. (y + 5)(3a - b) C. (y - 3)(5a + b) D. (y - 5)(3a + b)",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 613,
+    "name": "Mr Adu bought 400 bags of maize for his farm animals. If he used 120 bags to feed the animals, find the percentage of the maize left. A. 70% B. 60% C. 50% D. 40%",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 614,
+    "name": "A man spends GH¢ 560.00 out of his weekly wage of GH¢ 700.00 and saves the rest. What percentage did he save? A. 10% B. 15% C. 20% D. 25%",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 615,
+    "name": "Solve: 3(x - 5) > 15 - 4(8 - x). A. x < -32 B. x < -2 C. x < 2 D. x < 32",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 616,
+    "name": "Esi made sales of 15 twenty cedi notes, 14 ten cedi notes and 15 two cedi notes. Find her total sales. A. GH¢ 305.00 B. GH¢ 440.00 C. GH¢ 470.00 D. GH¢ 740.00",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 617,
+    "name": "When 0.24 is expressed in the lowest form as a/b, the denominator is A. 2. B. 5. C. 25. D. 125.",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 618,
+    "name": "Solve: 4x - 2(x + 5) = -10. A. x = -10 B. x = 0 C. x = 1/2 D. x = 2",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 619,
+    "name": "A rectangular container with dimensions 5 m × 3 m × 4 m is two-third full of water. Find the volume occupied by the water in the container. A. 50 m^3 B. 40 m^3 C. 30 m^3 D. 20 m^3",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 620,
+    "name": "Ama is three times as old as Kofi. The sum of their ages is 40. How old is Ama? A. 10 years B. 30 years C. 37 years D. 43 years",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 621,
+    "name": "A point (-2, 3) is reflected in the x-axis. Find the image of the point. A. (-3, -2) B. (-3, 2) C. (-2, -3) D. (-2, 3)",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 622,
+    "name": "A farmer feeds 20 goats with 500 kg of cassava. How many goats can be fed with 200 kg of cassava? A. 2 B. 5 C. 8 D. 10",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 623,
+    "name": "In an examination, Abu answered nine questions in 2 hours. He spent 20 minutes on the first question and the same time on each of the remaining questions. How many minutes did he spend on each of the other questions? A. 8.0 minutes B. 10.0 minutes C. 12.0 minutes D. 12.5 minutes",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 624,
+    "name": "A trader sold half of a piece of cloth and used two-fifths of the remaining to sew a dress. What fraction of the cloth was left? A. 1/10 B. 3/10 C. 1/5 D. 1/2",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 625,
+    "name": "Solve: 2^x = 8 × 2^0. A. x = 3 B. x = 2 C. x = -2 D. x = -3",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 626,
+    "name": "A boy walked round a circular pond once. If the radius of the pond is 28 m, find the distance covered. [Take π = 22/7] A. 44 m B. 88 m C. 176 m D. 252 m",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 627,
+    "name": "The points M(1, 3) and N(4, 5) are in the number plane. Find the vector MN. A. (3, 2) B. (-3, -2) C. (5, 8) D. (-5, -8)",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 628,
+    "name": "Find the rule for the mapping: x: 1→9, 2→20, 3→31, 4→42. A. t → 10t - 1 B. t → 8t + 1 C. t → 11t - 2 D. t → 7t + 2",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": "A mapping diagram. Top row (inputs): 1, 2, 3, 4. Bottom row (outputs): 9, 20, 31, 42. Vertical arrows point from 1→9, 2→20, 3→31, 4→42."
+  },
+  {
+    "id": 629,
+    "name": "If 2y = 5 - 3x, find x when y = 1. A. -2 1/3 B. -1 C. 0 D. 1",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 630,
+    "name": "Given that 0.03 × y = 2.4, find the value of y. A. 0.08 B. 0.8 C. 8.0 D. 80.0",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 631,
+    "name": "Find the gradient of the line which passes through the points (2, 3) and (-4, 5). A. -3 B. -1/3 C. 1/3 D. 3",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 632,
+    "name": "Two interior angles of a triangle are (3x - 10)° and (4x + 20)°. Find an expression for the third angle. A. (170 - 7x)° B. (150 - 5x)° C. (120 - 7x)° D. (100 - 5x)°",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 633,
+    "name": "If a = (-2, 1) and b = (-5, -3), find 2a - b. A. (1, 5) B. (-9, -1) C. (5, 1) D. (-1, -1)",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 634,
+    "name": "It costs a carpenter GH¢ 25.00 to make a chair. How much should it be sold to make a profit of 40%? A. GH¢ 15.00 B. GH¢ 35.00 C. GH¢ 40.00 D. GH¢ 50.00",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 635,
+    "name": "Ama has 4 one cedi notes and orders an ice cream for GH¢ 1.75 and two toffees at 50 GP each. How much does she have left? A. GH¢ 1.25 B. GH¢ 1.75 C. GH¢ 2.25 D. GH¢ 2.75",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 636,
+    "name": "A trader received a commission of 5% on goods sold at GH¢ 25,000.00. Find the commission. A. GH¢ 1,250.00 B. GH¢ 1,200.00 C. GH¢ 1,100.00 D. GH¢ 1,000.00",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 637,
+    "name": "Which of the following inequalities is represented on the number line? A. x < 2 B. x ≤ 3 C. x > 3 D. x ≥ 2",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": "A number line showing integers from -3 to 3. A solid dot is placed on the number 3, and an arrow points from the dot to the left, indicating the direction of negative infinity. This represents x ≤ 3."
+  },
+  {
+    "id": 638,
+    "name": "Multiply (8s - 7) by (8s + 7). A. 64s^2 + 49 B. 64s^2 - 49 C. 16s^2 - 42 D. 16s^2 + 42",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 639,
+    "name": "The population of a town is 56782. What is this number to three significant figures? A. 567 B. 568 C. 56700 D. 56800",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 640,
+    "name": "Find the largest value of these numbers: -1, 0, -6, -3. A. 0 B. -1 C. -3 D. -6",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 641,
+    "name": "A box contains 10 green and 8 white balls of the same size. If a ball is selected at random from the box, what is the probability that it is green? A. 1/10 B. 4/5 C. 5/9 D. 4/9",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 642,
+    "name": "Express 36 as a product of primes. A. 2 × 3 B. 2^2 × 3^2 C. 2^2 × 3^3 D. 2^3 × 3^2",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 643,
+    "name": "Describe the set M = {2, 3, 5, 7, 11, 13, 17, 19} in words. A. M = {odd numbers less than 20} B. M = {factors of 19} C. M = {prime numbers less than 20} D. M = {whole numbers less than 20}",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 644,
+    "name": "A survey shows that 28% of all the men in a village are vegetarian. What is the probability that a man selected at random from the village is a vegetarian? A. 7/25 B. 41/50 C. 1/2 D. 1",
+    "code": "A",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 645,
+    "name": "Given that P = {4, 8, 12, 16, 20} and Q = {2, 4, 6, 8, 10}, find the product of the members of (P ∩ Q). A. 12 B. 18 C. 24 D. 32",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 646,
+    "name": "Anowa scored an average of 53 in Science and Mathematics. If she scored 50 and 60 in English Language and Social Studies respectively, find her mean score in all the four subjects. A. 57 B. 56 C. 55 D. 54",
+    "code": "D",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 647,
+    "name": "What is the missing number in the sequence: -5, -2, 1, ..., 7? A. 2 B. 3 C. 4 D. 5",
+    "code": "C",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 648,
+    "name": "Charles and Helen started a business with an amount of GH¢ 7,000.00. If their contributions were in the ratio 4:3 respectively, find Helen's contribution. A. GH¢ 2,500.00 B. GH¢ 3,000.00 C. GH¢ 4,000.00 D. GH¢ 5,000.00",
+    "code": "B",
+    "price": 1.00,
+    "totalObjectives": 4,
+    "totalTheory": 0,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 649,
+    "name": "Question 1 (Theory): (a) Given that P = {multiples of 3} and Q = {positive even numbers} are subsets of μ = {x : 1 ≤ x ≤ 20, where x is a counting number}: (i) List the elements in P ∩ Q. (ii) List all the subsets in P ∩ Q. (b) If 1/y = 3k - 2/x, (i) make y the subject of the relation. (ii) using the result in (b)(i), find the value of y when x = -1 and k = 2.",
+    "code": null,
+    "price": 20.00,
+    "totalObjectives": 0,
+    "totalTheory": 1,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 650,
+    "name": "Question 2 (Theory): (a) Evaluate (4000 × 0.35) / 0.05, leaving the answer in standard form. (b) Mr Boakye gets 10% commission on type P house he sells and 15% on type Q house. He sells 3 type P houses at GH¢ 700,000.00 each and 4 type Q at GH¢ 1,400,000.00 each. Calculate the total commissions he makes.",
+    "code": null,
+    "price": 20.00,
+    "totalObjectives": 0,
+    "totalTheory": 1,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 651,
+    "name": "Question 3 (Theory): (a) Given that a = (2, 3), b = (x, -3) and c = (7, 3), find: (i) the value of x, if 2a + b = c; (ii) d = c - 3a; (iii) |d|. (b) A polytank contains 4500 litres of water and 1/5 of the water is used for cleaning. (i) Find the volume of water used for cleaning. (ii) What percentage of water is left in the tank?",
+    "code": null,
+    "price": 20.00,
+    "totalObjectives": 0,
+    "totalTheory": 1,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 652,
+    "name": "Question 4 (Theory): (a) A woman borrowed GH¢ 5,300.00 to pay for her child's university fees. If she borrowed at a rate of 8% simple interest per annum for 9 months, find the interest paid. (b) A father shared his piece of land to his three children. The first child had 2/5 of the land and the second had 5 acres more than the first. If the third child had 20 acres, find how many acres of land the: (i) father shared; (ii) first child received; (iii) second child received.",
+    "code": null,
+    "price": 20.00,
+    "totalObjectives": 0,
+    "totalTheory": 1,
+    "isActive": 1,
+    "diagram": null
+  },
+  {
+    "id": 653,
+    "name": "Question 5 (Theory): (a) The pie chart shows the weight (in kg) of items Mrs. Mensah bought for her household. Flour is 54°, Gari is a right angle (90°), Sugar is 36°, Rice is 108°, and Fish is the remaining angle. (i) What angle represents fish? (ii) If she bought a total of 20 kg of items: (α) what is the weight of flour bought? (β) express, correct to one decimal place, the weight of sugar as a percentage of the weight of rice. (b) In a class of 30 students, five wear glasses. If a student is selected at random from the class, what is the probability that the student does not wear glasses.",
+    "code": null,
+    "price": 20.00,
+    "totalObjectives": 0,
+    "totalTheory": 1,
+    "isActive": 1,
+    "diagram": "A pie chart showing 5 sectors representing household items: Flour (54°), Gari (90°), Sugar (36°), Rice (108°), and Fish (remaining 72°). The total angle sums to 360°."
+  },
+  {
+    "id": 654,
+    "name": "Question 6 (Theory): Adamu was travelling a distance of 40 km from Kadumgu to Datanu. Sixty minutes after starting the journey, he made a stop at Cooltown, 10 km from Kadumgu to rest for 30 minutes. He then continued the journey from Cooltown and reached Datanu 60 minutes later. (a) Using a scale of 2 cm to 20 minutes on the horizontal axis and 2 cm to 5 km on the vertical axis, draw a distance-time graph for Adamu's journey. (b) Use the graph to determine the: (i) distance from Cooltown to Datanu; (ii) total time (in minutes), taken by Adamu to make the whole journey including the rest time; (iii) average speed of Adamu from Cooltown to Datanu. (c) If Adamu did not rest but travelled to Datanu within the time, what was his average speed?",
+    "code": null,
+    "price": 20.00,
+    "totalObjectives": 0,
+    "totalTheory": 1,
+    "isActive": 1,
+    "diagram": null
+  }
+]

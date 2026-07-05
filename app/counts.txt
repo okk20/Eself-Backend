@@ -1,0 +1,7 @@
+--- QUESTION DATABANK COUNTS ---
+Subject ID 1 (Mathematics): Objectives=404, Theory=2
+Subject ID 2 (Integrated Science): Objectives=61, Theory=6
+Subject ID 3 (English Language): Objectives=61, Theory=11
+Subject ID 4 (Social Studies): Objectives=295, Theory=13
+Subject ID 5 (Computing): Objectives=440, Theory=61
+Subject ID 6 (Religious & Moral Education (RME)): Objectives=0, Theory=0

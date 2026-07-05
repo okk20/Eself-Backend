@@ -1,0 +1,21 @@
+[2026-07-05T07:36:44.092Z] [INFO] Environment variables validated successfully
+[2026-07-05T07:36:44.102Z] [INFO] Node environment: development
+[2026-07-05T07:36:44.103Z] [INFO] Server port: 3000
+[2026-07-05T07:36:44.104Z] [INFO] Paystack mode: TEST
+[2026-07-05T07:36:44.110Z] [INFO] Created new database file with initial schema
+[2026-07-05T07:36:44.122Z] [INFO] Database initialized
+[2026-07-05T07:36:51.325Z] [INFO] ========================================
+[2026-07-05T07:36:51.328Z] [INFO] Eself Backend Engine v2.0.0
+[2026-07-05T07:36:51.330Z] [INFO] Port: 3000
+[2026-07-05T07:36:51.331Z] [INFO] Environment: development
+[2026-07-05T07:36:51.333Z] [INFO] Paystack: TEST mode
+[2026-07-05T07:36:51.334Z] [INFO] CORS: all origins
+[2026-07-05T07:36:51.334Z] [INFO] ========================================
+[2026-07-05T08:06:33.425Z] [INFO] GET / 200 2ms "{\"method\":\"GET\",\"path\":\"/\",\"status\":200,\"durationMs\":2}"
+[2026-07-05T08:06:36.725Z] [DEBUG] Authenticated via header/param "{\"userId\":\"42\"}"
+[2026-07-05T08:06:36.729Z] [INFO] Premium status checked "{\"userId\":\"42\",\"isPremium\":false}"
+[2026-07-05T08:06:36.733Z] [INFO] GET /premium/status 200 13ms "{\"method\":\"GET\",\"path\":\"/premium/status\",\"status\":200,\"durationMs\":13}"
+[2026-07-05T08:06:40.055Z] [DEBUG] Authenticated via header/param "{\"userId\":\"42\"}"
+[AUDIT] {"timestamp":"2026-07-05T08:06:40.057Z","action":"PAYMENT_VERIFICATION_STARTED","details":{"paymentReference":"test_ref_123","userId":"42"}}
+[AUDIT] {"timestamp":"2026-07-05T08:06:41.049Z","action":"PAYSTACK_VERIFICATION_FAILED","details":{"paymentReference":"test_ref_123","userId":"42","error":"Request failed with status code 401"}}
+[2026-07-05T08:06:41.054Z] [INFO] POST /payments/verify 500 1000ms "{\"method\":\"POST\",\"path\":\"/payments/verify\",\"status\":500,\"durationMs\":1000}"
